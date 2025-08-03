@@ -51,9 +51,10 @@ contexto = "A OAB é uma instituição que representa os advogados no Brasil."
 perguntar_ao_copiloto("O que é a OAB?")
 
 ______________________________
+
 ## ATUALIZAÇÃO
 
-# 🤖 Copiloto com Fluxo de Conversa - Python + Transformers
+# Copiloto com Fluxo de Conversa - Python + Transformers
 
 Este projeto simula um Copiloto Inteligente com **fluxo de conversa**, inspirado nos conceitos do Microsoft Copilot Studio. A aplicação foi construída em Python e roda facilmente no Google Colab.
 
