@@ -50,3 +50,34 @@ pip install transformers
 contexto = "A OAB é uma instituição que representa os advogados no Brasil."
 perguntar_ao_copiloto("O que é a OAB?")
 
+______________________________
+## ATUALIZAÇÃO
+
+# 🤖 Copiloto com Fluxo de Conversa - Python + Transformers
+
+Este projeto simula um Copiloto Inteligente com **fluxo de conversa**, inspirado nos conceitos do Microsoft Copilot Studio. A aplicação foi construída em Python e roda facilmente no Google Colab.
+
+## 🧠 Funcionalidades
+
+- Simula uma conversa com assistente virtual
+- Perguntas baseadas em três categorias:
+  - Jurídico
+  - Tecnologia
+  - Geral
+- Respostas automatizadas com IA pré-treinada
+- Fluxo interativo com saudação, escolha de tema e encerramento
+
+## 📦 Tecnologias Utilizadas
+
+- Python 3
+- Transformers (Hugging Face)
+- Google Colab (execução)
+
+## 🚀 Como Usar
+
+1. Rode o notebook no [Google Colab](https://colab.research.google.com/)
+2. Execute todas as células
+3. Siga as instruções na conversa
+
+## 🔁 Exemplo de Conversa
+
