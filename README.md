@@ -46,10 +46,12 @@ pip install transformers
 
     O Copiloto responderá com base no que sabe do contexto.
 
-📚 Exemplo
+
+# 📚 Exemplo
 contexto = "A OAB é uma instituição que representa os advogados no Brasil."
 perguntar_ao_copiloto("O que é a OAB?")
 
+```
 ---
 
 # *ATUALIZAÇÃO*
