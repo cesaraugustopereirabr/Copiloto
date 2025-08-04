@@ -50,7 +50,9 @@ pip install transformers
 contexto = "A OAB é uma instituição que representa os advogados no Brasil."
 perguntar_ao_copiloto("O que é a OAB?")
 
-*ATUALIZAÇÃO*
+---
+
+# *ATUALIZAÇÃO*
 
 # 🤖 **Copiloto com Fluxo de Conversa - Python + Transformers**
 
@@ -89,4 +91,5 @@ Este projeto simula um **Copiloto Inteligente com fluxo de conversa**, inspirado
 3. Interaja com o Copiloto diretamente pelo terminal
 
 ---
+
 
